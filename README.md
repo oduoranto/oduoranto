@@ -4,7 +4,8 @@ Welcome to my GitHub repository! I'm a passionate software engineer with experti
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oduoranto&show_icons=true&theme=radical)
 
-## About me :
+
+## About me:
 
 💻 Skilled in Java and Spring Boot for robust backend development.
 
