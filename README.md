@@ -1,11 +1,11 @@
-###  Antony Oduor 👋
+##  Antony Oduor 👋
 
 Welcome to my GitHub repository! I'm a passionate software engineer with expertise in Java programming and Spring Boot frameworks. With a solid foundation in data structures and algorithms, I strive to craft efficient and scalable solutions to complex problems.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oduoranto&show_icons=true&theme=radical)
 
 
-## About me:
+### About me:
 
 💻 Skilled in Java and Spring Boot for robust backend development.
 
@@ -15,7 +15,7 @@ Welcome to my GitHub repository! I'm a passionate software engineer with experti
 
 📚 Constantly learning and exploring new technologies to stay ahead in the ever-evolving tech landscape.
 
-## What You'll Find Here:
+### What You'll Find Here:
 
 🛠️ Java projects showcasing my coding prowess and problem-solving skills.
 
@@ -24,7 +24,7 @@ Welcome to my GitHub repository! I'm a passionate software engineer with experti
 📈 Solutions to algorithmic challenges and implementations of various data structures.
 
 
-## Let's Connect!
+### Let's Connect!
 
 🔗 LinkedIn: Antony Oduor
 
