@@ -1,4 +1,4 @@
-### Hi there! I'm Antony Oduor 👋
+###  Antony Oduor 👋
 
 Welcome to my GitHub repository! I'm a passionate software engineer with expertise in Java programming and Spring Boot frameworks. With a solid foundation in data structures and algorithms, I strive to craft efficient and scalable solutions to complex problems.
 
