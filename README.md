@@ -29,6 +29,7 @@ Let's Connect!
 
 📧 Email: dev.antonyoduor@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to explore my projects, provide feedback, or reach out for collaboration opportunities. Happy coding! 🚀✨
 
