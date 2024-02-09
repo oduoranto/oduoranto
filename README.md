@@ -23,9 +23,9 @@ Welcome to my GitHub repository! I'm a passionate software engineer with experti
 
 ### Let's Connect!
 
-  🔗 LinkedIn:(https://www.linkedin.com/in/antony-oduor-5bb087257/)
+  🔗 LinkedIn: https://www.linkedin.com/in/antony-oduor-5bb087257
 
-📧 Email: dev.antonyoduor@gmail.com
+  📧 Email: dev.antonyoduor@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oduoranto&show_icons=true&theme=radical)
 
