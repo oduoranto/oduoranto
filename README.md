@@ -23,7 +23,7 @@ Welcome to my GitHub repository! I'm a passionate software engineer with experti
 
 ### Let's Connect!
 
-🔗 LinkedIn: Antony Oduor
+  🔗 LinkedIn:(https://www.linkedin.com/in/antony-oduor-5bb087257/)
 
 📧 Email: dev.antonyoduor@gmail.com
 
